@@ -1,0 +1,41 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+h1{
+    /*color:rgb(252,250,251);*/
+    margin-bottom: 30px;
+}
+body{
+    background: url('temp.jpg');
+    /*background-color:rgb(67, 70, 108);*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container{
+    text-align:  center;
+    margin-top: 100px;
+}
+
+label{
+    text-size-adjust: large;
+    margin-right: 10px;
+    /*color: rgb(243,244,245);*/
+}
+#ctemp{
+    height:40px;
+    width:400px;
+    margin-bottom:20px;
+}
+#ftemp{
+    height:40px;
+    width:400px;
+    margin-bottom:20px;
+}
+#ktemp{
+    height:40px;
+    width:400px;
+}
